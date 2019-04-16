@@ -2,6 +2,10 @@
 
 This repo serves as the homepage for Northeastern University's CS Mentoring Club (CoSMO).
 
+NOTE: This branch is NO LONGER being updated. I've forked this repo and added it to the [CoSMO Organization](https://github.com/northeastern-cosmo) for the entire e-board to manage. Check it out [here](https://github.com/northeastern-cosmo/website)!
+
+
+
 ## Adding events
 
 Events added to `_/data/upcoming.yaml` will be reflected on the front page of the site. Please follow the following format:
